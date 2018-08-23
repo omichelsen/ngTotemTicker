@@ -1,6 +1,8 @@
 ngTotemTicker
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/omichelsen/ngTotemTicker.svg)](https://greenkeeper.io/)
+
 A vertical list scroller for AngularJS [https://github.com/omichelsen/ngTotemTicker](https://github.com/omichelsen/ngTotemTicker "Go to the website")
 
 # Minimal setup
